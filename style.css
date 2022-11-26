@@ -249,7 +249,7 @@ footer{
 .ready{
   width: 50%;
   position: relative;
-  left: 50%;
+  left: 300px;
 }
 .location{
   display: inline
